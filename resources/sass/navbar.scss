@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+html{
+    font-size: 14px;
+}
+
+.nav_button{
+    margin-right: 20px;
+    background: black;
+}
+
+.body_main{
+    background-image: url(https://krot.info/uploads/posts/2020-01/1580328652_3-p-derevyannie-foni-s-yedoi-15.jpg);
+    background-position: left bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+}
+.nav_bar{
+
+}
+
+.nav_brand{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #123c24;
+    font-size: 25px;
+
+}
+
+.create_page{
+    width: 100%;
+    text-align: center;
+}
+
+/*.card{
+    background: rgba(255,255,255,.7);
+}*/
+
+.card_style{
+    background-color: #495057;
+    color: white;
+    .card_body_style{
+        background-color: #b3b7bb;
+    }
+}
